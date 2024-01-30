@@ -18,3 +18,5 @@ gitRefresh () {
 alias add="gitAddAll"
 alias status="gitStatus"
 alias refresh="gitRefresh"
+
+alias vim="nvim"
